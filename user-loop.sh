@@ -1,0 +1,1 @@
+for i in $(seq 1 100); do echo "=== User $i ==="; curl -s http://10.184.27.176/api/v1/users/$i; echo; done

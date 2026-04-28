@@ -1,0 +1,236 @@
+http://10.184.27.176/api/v1/challenges
+
+
+{
+    "success": true,
+    "data": [
+        {
+            "id": 11,
+            "type": "standard",
+            "name": "tp2 - mise en place",
+            "value": 1,
+            "solves": 17,
+            "solved_by_me": false,
+            "category": "TP2 - format PE",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 13,
+            "type": "standard",
+            "name": "tp3 - mise en place",
+            "value": 1,
+            "solves": 19,
+            "solved_by_me": false,
+            "category": "TP3 - Identification",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 15,
+            "type": "standard",
+            "name": "tp4 - Mise en place",
+            "value": 1,
+            "solves": 19,
+            "solved_by_me": false,
+            "category": "TP4 - CTF easy",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 19,
+            "type": "standard",
+            "name": "tp5 - mise en place",
+            "value": 1,
+            "solves": 19,
+            "solved_by_me": false,
+            "category": "TP5 - Calling Convention",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 24,
+            "type": "standard",
+            "name": "tp7 - mise en place",
+            "value": 1,
+            "solves": 19,
+            "solved_by_me": false,
+            "category": "TP7 - WINAPI",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 27,
+            "type": "standard",
+            "name": "tp8 - mise en place",
+            "value": 1,
+            "solves": 20,
+            "solved_by_me": false,
+            "category": "TP8 - PERSISTANCE",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 36,
+            "type": "standard",
+            "name": "tp10 - mise en place",
+            "value": 1,
+            "solves": 15,
+            "solved_by_me": false,
+            "category": "tp10 - DROPPER",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 39,
+            "type": "standard",
+            "name": "tp11 - mise en place",
+            "value": 1,
+            "solves": 13,
+            "solved_by_me": false,
+            "category": "tp11 - MALWARE EASY",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 43,
+            "type": "standard",
+            "name": "tp12 - mise en place",
+            "value": 1,
+            "solves": 9,
+            "solved_by_me": false,
+            "category": "tp12 - MALWARE LONG",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 52,
+            "type": "standard",
+            "name": "tp14 - mise en place",
+            "value": 1,
+            "solves": 3,
+            "solved_by_me": false,
+            "category": "tp14 - INJECTION",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 56,
+            "type": "standard",
+            "name": "tp17 - mise en place",
+            "value": 1,
+            "solves": 2,
+            "solved_by_me": false,
+            "category": "tp17 - HOOKING",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 60,
+            "type": "standard",
+            "name": "tp16 - mise en place",
+            "value": 1,
+            "solves": 2,
+            "solved_by_me": false,
+            "category": "tp16 - HOOKING",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 65,
+            "type": "standard",
+            "name": "tp15 - mise en place",
+            "value": 1,
+            "solves": 2,
+            "solved_by_me": false,
+            "category": "tp15 - INJECTION",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 70,
+            "type": "standard",
+            "name": "tp18 - mise en place",
+            "value": 1,
+            "solves": 2,
+            "solved_by_me": false,
+            "category": "tp18 - PARTIAL UNPACK",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 73,
+            "type": "standard",
+            "name": "tp19 - mise en place",
+            "value": 1,
+            "solves": 2,
+            "solved_by_me": false,
+            "category": "tp19 - EASY UNPACK",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 79,
+            "type": "standard",
+            "name": "tp20 - mise en place",
+            "value": 1,
+            "solves": 2,
+            "solved_by_me": false,
+            "category": "tp20 - EASY UNPACK 2",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 85,
+            "type": "standard",
+            "name": "tp13 - mise en place",
+            "value": 1,
+            "solves": 3,
+            "solved_by_me": false,
+            "category": "tp13 - CRYPTO",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 12,
+            "type": "standard",
+            "name": "tp1 - mise en place",
+            "value": 10,
+            "solves": 19,
+            "solved_by_me": false,
+            "category": "TP1 - 1er malware",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 35,
+            "type": "standard",
+            "name": "tp9 - num\u00e9ro du syscall",
+            "value": 10,
+            "solves": 15,
+            "solved_by_me": false,
+            "category": "TP9 - SYSCALL",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        }
+    ]
+}
